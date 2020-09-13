@@ -29,5 +29,4 @@ Rent My Tent stands out on its own; it's both narrowly focused on tents and has 
 The clue is in the name and of course renting is a novel approach. Whilst novelty can be harder to compute, the proposition is built on the principles of markets, and markets tend to reduce transaction costs. So novelty and markets come together to deliver a truly unique proposition.
 
 Under the hood of Rent My Tent has a pricing mechanism that aids market forces. The incentives are baked in, driving behaviour and peer-to-peer coordination in such a way that the marketplace can scale quickly and organically - beside a business model that is sustainable.
-
-To conclude, Rent My Tent is a novel proposition and has no like-for-like competition. The competitor analysis finds evidence - projects in the Creative Initiatives category - that the festival industry is ready for innovative solutions (and their eco-minded customers insist on it). This evidence informs our [partnership strategy](https://github.com/kelvinlockwood/Rent-My-Tent/blob/master/partnership_strategy.md).
+ß

@@ -1,8 +1,6 @@
 # Rent My Tent
 > A peer-to-peer marketplace for used tents. Sell your tent. Hire a tent.
 
-![Rent-my-tent.org](https://github.com/kelvinlockwood/Rent-My-Tent/blob/master/Website_mockup_RentMyTent.png?raw=true)
-
 ## Motivation
 Often people purchase tents with only a single-use in mind. This means we have many tents, yet little utility. :angry:
 
@@ -28,10 +26,8 @@ By promoting tent utility / reuse, we can drive down the need for tent ownership
 ## System Overview
 Once a tent is added to the marketplace it will always be available for rent; except during rental periods when the tent is being used by the renter.
 
-For a quick overview of how this works go [here](https://github.com/kelvinlockwood/Rent-My-Tent/blob/master/marketplace_explainer.md). To understand every interaction between a tent seller and a tent hirer check out this [marketplace design doc](https://github.com/kelvinlockwood/Rent-My-Tent/blob/master/MarketplaceDesign_RentMyTent.pdf).
 
 ## Key focus for UX
-- Adding a tent to the marketplace - here's how it might look on [mobile and desktop](https://github.com/kelvinlockwood/Rent-My-Tent/blob/master/Accordian_tent_listing_flow.png)
 - Automatically putting a tent back on the marketplace
 - Communication / notifications that ensure the renter understands what is happening now that the rental period has come to an end
 
@@ -102,8 +98,7 @@ For a quick overview of how this works go [here](https://github.com/kelvinlockwo
 
 By mocking up a Rent My Tent homepage we had a focal point and aid for our customer interviews.
 
-At the same time we got to work on the marketplace design / system architecture by working out all of the interactions that Toby and Rachel will have with Rent My Tent, and with each other. This work is represented by this [complex diagram](https://github.com/kelvinlockwood/Rent-My-Tent/blob/master/MarketplaceDesign_RentMyTent.pdf).
-
+At the same time we got to work on the marketplace design / system architecture by working out all of the interactions that Toby and Rachel will have with Rent My Tent, and with each other.
 ### MVP testing
 **Our testing approach**
 
@@ -135,11 +130,7 @@ During the final week we produced a series of videos to represent this project:
 
 - In this [7 min video](https://youtu.be/YrmwcxcaUg8) Rob walks you through Rent My Tent from the front-end web perspective, demonstrating the steps to list a tent on the marketplace.
 
-- In this [series of videos](https://github.com/kelvinlockwood/Rent-My-Tent/blob/master/celo_demo.md) Jett demonstrates the mobile app functionality that he built using Celo's SDK.
-
 ---
-
-To showcase Rent My Rent we developed two technical projects. Our [primary project](https://youthful-volhard-3a730f.netlify.com/), a working decentralised [web app](https://github.com/kelvinlockwood/Rent-My-Tent/tree/master/web), is built on Ethereum and the ERC-721 token standard. And our [secondary project](https://github.com/jettandres/rent-my-tent) is built on Celo's SDK.
 
 Celo’s focus on being mobile-first and having a native stable currency offers a lot of promise to our project. We don’t want to expose our users to any complicated token economics or ask them to reason with the complexities of DAOs. We just need to make it easy to list a tent, easy to hire a tent and for locked up deposits to be safe from any threats. We also liked the idea of all users paying a $1 lifetime membership fee and that idea looked a good fit for Celo.
 
@@ -148,7 +139,7 @@ Project has been submitted for judging, _Plastics & Pollution_ and _Celo Peace &
 
 ## Next steps
 Our next major goal is to pilot Rent My Tent at [Houghton Festival](https://www.houghtonfestival.co.uk/)
- in August of this year. We’ve had a warm response from [Amanda Eastwood](https://github.com/kelvinlockwood/Rent-My-Tent/blob/master/validation_from_festival_organiser.md)
+ in August of this year.
  who is keen on the idea, however she doesn’t yet know if Houghton Festival will run this year due to the current Coronavirus crisis.
 
 We’re also looking to take this project forward alongside opportunities in the blockchain space. We’ll be considering [MetaCartel](https://metacartel.xyz/), [The LAO](https://medium.com/@thelaoofficial/become-a-project-funded-by-the-lao-333e03cf5c) and [Celo Camp](https://medium.com/celoorg/announcing-celo-camp-f78ddf07e25d) in due course.
