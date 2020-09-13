@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Rent My Tent",
+    "slug": "rent-my-tent",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.yourcompany.rentmytent",
+      "versionCode": 1
+    },
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/white-wallet-rings.png",
+    "scheme": "celodappkit",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "May we win and bring home the bacon",
+    "githubUrl": "https://github.com/critesjosh/celo-dappkit"
+  }
+}
